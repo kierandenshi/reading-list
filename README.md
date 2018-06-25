@@ -4,7 +4,7 @@ Hello! Thank you for your interest in joining our front end engineering team at 
 We ask all candidates to complete this short exercise to help us evaluate their suitability for the roles we are recruiting for. As a general guide we suggest spending around 2 hours to complete this excercise. We are not looking for perfection as we are much more interested in the decisions you make and what you choose to prioritise (and we appreciate that your time is very valuable). You will have the opportunity to discuss your solution at the next stage of the recruitment process. 
 
 ## The Excercise
-Create an application to display a recommended reading list using [React](https://facebook.github.io/react) and any suitable libraries (we use [React](https://facebook.github.io/react), [Redux](https://github.com/reduxjs/redux), [Jest](https://github.com/facebook/jest) and [Sass](https://github.com/sass/sass))
+Create an application to display a recommended reading list using [React](https://facebook.github.io/react) and any suitable libraries (we use [React](https://facebook.github.io/react), [Redux](https://github.com/reduxjs/redux), [Jest](https://github.com/facebook/jest) and [Sass](https://github.com/sass/sass)). You may use [create-react-app](https://github.com/facebook/create-react-app) to bootstrap your application.
 
 ### Acceptance Criteria
 * Retrieve data from `https://s3-eu-west-1.amazonaws.com/styl-reading-list/data.json`
