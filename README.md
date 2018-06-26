@@ -1,9 +1,9 @@
 # Reading List App
 Hello! Thank you for your interest in joining our front end engineering team at Stylindex :)
 
-We ask all candidates to complete this short exercise to help us evaluate their suitability for the roles we are recruiting for. As a general guide we suggest spending around 2 hours to complete this excercise. We are not looking for perfection as we are much more interested in the decisions you make and what you choose to prioritise (and we appreciate that your time is very valuable). You will have the opportunity to discuss your solution at the next stage of the recruitment process. 
+We ask all candidates to complete this short exercise to help us evaluate their suitability for the roles we are recruiting for. We appreciate that your time is valuable, so as a general guide we suggest spending around 2 hours to complete this exercise. We are not looking for perfection as we are much more interested in the decisions you make and what you choose to prioritise, and you will have the opportunity to discuss your solution at the next stage of the recruitment process. 
 
-## The Excercise
+## The Exercise
 Create an application to display a recommended reading list using [React](https://facebook.github.io/react) and any suitable libraries (we use [React](https://facebook.github.io/react), [Redux](https://github.com/reduxjs/redux), [Jest](https://github.com/facebook/jest) and [Sass](https://github.com/sass/sass)). You may use [create-react-app](https://github.com/facebook/create-react-app) to bootstrap your application.
 
 ### Acceptance Criteria
@@ -24,10 +24,9 @@ Create an application to display a recommended reading list using [React](https:
 ### Requirements
 A good solution will
 * satisfy the acceptance criteria
-* be production ready
-* work on evergreen browsers
+* work on common web browsers
 * have good test coverage
 * have a functional user experience and design
-* use _appropriate_ front end tooling
+* use _appropriate_ front end libraries
 
-Please put your solution on a repository hosting service such as [GitHub](https://github.com) or [Bitbucket](https://bitbucket.org) and don't forget to include a README file for your solution :)
+Please put your solution on a repository hosting service such as [GitHub](https://github.com) or [Bitbucket](https://bitbucket.org) and don't forget to include a README file to tell us how to build and run the application :)
