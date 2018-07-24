@@ -7,7 +7,7 @@ We ask all candidates to complete this short exercise to help us evaluate their 
 Create an application to display a recommended reading list using [React](https://facebook.github.io/react) and any suitable libraries (we use [React](https://facebook.github.io/react), [Redux](https://github.com/reduxjs/redux), [Jest](https://github.com/facebook/jest) and [Sass](https://github.com/sass/sass)). You may use [create-react-app](https://github.com/facebook/create-react-app) to bootstrap your application.
 
 ### Acceptance Criteria
-* Retrieve data from `https://s3-eu-west-1.amazonaws.com/styl-reading-list/data.json`
+* Fetch data from `https://s3-eu-west-1.amazonaws.com/styl-reading-list/data.json`
 * Display the list of books on a page, each book item showing
     - Book title
     - Author name
@@ -28,5 +28,6 @@ A good solution will
 * have good test coverage
 * have a functional user experience and design
 * use _appropriate_ front end libraries
+* be production ready
 
 Please put your solution on a repository hosting service such as [GitHub](https://github.com) or [Bitbucket](https://bitbucket.org) and don't forget to include a README file to tell us how to build and run the application :)
