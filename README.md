@@ -1,7 +1,7 @@
 # Reading List App
 Hello! Thank you for your interest in joining our front end engineering team at Stylindex :)
 
-We ask all candidates to complete this short exercise to help us evaluate their suitability for the roles we are recruiting for. We appreciate that your time is valuable, so as a general guide we suggest spending around 2 hours to complete this exercise. We are not looking for perfection as we are much more interested in the decisions you make and what you choose to prioritise, and you will have the opportunity to discuss your solution at the next stage of the recruitment process. 
+We ask all candidates to complete this short exercise to help us evaluate their suitability for the roles we are recruiting for. We recommend spending between 2 and 4 hours. You will have an opportunity to discuss your solution, and the choices you made at the next interview stage.
 
 ## The Exercise
 Create an application to display a recommended reading list using [React](https://facebook.github.io/react) and any suitable libraries (we use [React](https://facebook.github.io/react), [Redux](https://github.com/reduxjs/redux), [Jest](https://github.com/facebook/jest) and [Sass](https://github.com/sass/sass)). You may use [create-react-app](https://github.com/facebook/create-react-app) to bootstrap your application.
