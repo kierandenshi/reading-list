@@ -7,7 +7,7 @@ We ask all candidates to complete this short exercise to help us evaluate their 
 Create an application to display a recommended reading list using [React](https://facebook.github.io/react) and any suitable libraries (we use [React](https://facebook.github.io/react), [Redux](https://github.com/reduxjs/redux), [RxJS](https://github.com/reactivex/rxjs), [Emotion](https://github.com/emotion-js/emotion) and [Jest](https://github.com/facebook/jest)). You may use [create-react-app](https://github.com/facebook/create-react-app) to bootstrap your application.
 
 ### Acceptance Criteria
-* Fetch data from `https://s3-eu-west-1.amazonaws.com/styl-reading-list/data.json`
+* Fetch data from `https://unruffled-austin-0672da.netlify.app/data.json`
 * Display the list of books on a page, each book item showing
     - Book title
     - Author name
