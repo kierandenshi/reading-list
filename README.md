@@ -1,10 +1,10 @@
 # Reading List App
-Hello! Thank you for your interest in joining our front end engineering team at Stylindex :)
+Hello! Thank you for your interest in joining our front end engineering team at Teamed! :)
 
 We ask all candidates to complete this short exercise to help us evaluate their suitability for the roles we are recruiting for. We recommend spending between 2 and 4 hours. You will have an opportunity to discuss your solution, and the choices you made at the next interview stage.
 
 ## The Exercise
-Create an application to display a recommended reading list using [React](https://facebook.github.io/react) and any suitable libraries (we use [React](https://facebook.github.io/react), [Redux](https://github.com/reduxjs/redux), [RxJS](https://github.com/reactivex/rxjs), [Styled Components](https://github.com/styled-components/styled-components) and [Jest](https://github.com/facebook/jest)). You may use [create-react-app](https://github.com/facebook/create-react-app) to bootstrap your application.
+Create an application to display a recommended reading list using [React](https://facebook.github.io/react) and any suitable libraries (we use [React](https://facebook.github.io/react), [Redux](https://github.com/reduxjs/redux), [RxJS](https://github.com/reactivex/rxjs), [Emotion](https://github.com/emotion-js/emotion) and [Jest](https://github.com/facebook/jest)). You may use [create-react-app](https://github.com/facebook/create-react-app) to bootstrap your application.
 
 ### Acceptance Criteria
 * Fetch data from `https://s3-eu-west-1.amazonaws.com/styl-reading-list/data.json`
